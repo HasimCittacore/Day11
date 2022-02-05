@@ -1,0 +1,19 @@
+form
+{
+    background:fixed;
+    text-align: left;
+    border: 2px solid black ;
+    width:500px;
+    height:330px;
+    padding:15px;
+    margin:25px;
+}
+
+body
+{
+    background-color: aquamarine;
+height:100vh;
+display:flex;
+align-items: center;
+justify-content: center;
+}
